@@ -766,7 +766,7 @@ footer {
 /*******LARGE SCREEN******/
 
 /*hides hamburger menu*/
-@media (min-width: 1024px) {
+@media (min-width: 1020px) {
 
  /* Hide hamburger menu/'button' */
  .menu-toggle,
